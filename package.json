@@ -1,0 +1,27 @@
+{
+  "name": "ekadosi_api",
+  "version": "1.0.0",
+  "description": "dialogflow fulfillment for samacar fb messenger chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahapranta/ekadosi_api.git"
+  },
+  "keywords": [
+    "chatbot",
+    "ekadosi",
+    "hksamacar",
+    "samacar",
+    "dialogflow",
+    "webhook"
+  ],
+  "author": "Pranta Saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahapranta/ekadosi_api/issues"
+  },
+  "homepage": "https://github.com/sahapranta/ekadosi_api#readme"
+}
